@@ -1,0 +1,19 @@
+body {
+    background-image:url("stars.png");
+    background-repeat: repeat;
+}
+
+#title-info {
+    margin: auto;
+    max-width: 640px;
+    text-align: center;
+}
+
+#title-text {
+    color: yellow;
+}
+
+#description-header {
+    color: bisque;
+    font-size: 18px;
+}
